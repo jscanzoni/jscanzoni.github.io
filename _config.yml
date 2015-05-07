@@ -1,5 +1,5 @@
 # Site settings
-title: scnz
+title: SCNZ - Jason Scanzoni
 email: jason@scnz.co
 url: http://scnz.me
 description: "Jason Scanzoni is a product manager and startup engineer based out of Washington, DC."
@@ -40,7 +40,7 @@ address:
   - line: Washington, DC 20001
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'SCNZ is hosted on GitHub Pages and powered by Jekyll and Bootstrap.'
 
 # Build settings
 markdown: kramdown

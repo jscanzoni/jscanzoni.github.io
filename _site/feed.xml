@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scnz</title>
+    <title>SCNZ - Jason Scanzoni</title>
     <description>Jason Scanzoni is a product manager and startup engineer based out of Washington, DC.</description>
     <link>http://scnz.me/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 07 May 2015 16:21:17 -0400</pubDate>
-    <lastBuildDate>Thu, 07 May 2015 16:21:17 -0400</lastBuildDate>
+    <pubDate>Thu, 07 May 2015 16:45:24 -0400</pubDate>
+    <lastBuildDate>Thu, 07 May 2015 16:45:24 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>

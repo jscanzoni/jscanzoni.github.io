@@ -1,7 +1,7 @@
 # Site settings
 title: scnz
 email: jason@scnz.co
-url: https://scnz.me
+url: http://scnz.me
 description: "Jason Scanzoni is a product manager and startup engineer based out of Washington, DC."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -10,8 +10,9 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: E8EFF0 #80B3FF
+  primary-text: 6B7574 #80B3FF
   secondary: 2C3F59 #FD6E8A
-  secondary-dark: 666666 #A2122F
+  secondary-dark: 3C4C61 #A2122F
 
 # Footer settings
 footer:

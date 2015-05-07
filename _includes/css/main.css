@@ -58,11 +58,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #{{ site.color.primary-text }};
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #{{ site.color.primary-text }};
     background-color: #{{ site.color.primary }};
 }
 
@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #{{ site.color.primary-text }};
     background: #{{ site.color.primary }};
 }
 
@@ -99,8 +99,8 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
-    font-weight: 700;
+    font-size: 2.5em;
+    font-weight: 500;
 }
 
 header .intro-text .skills {
@@ -131,6 +131,14 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 
+    .navbar-brand {
+        display: block;
+        background: transparent url("img/scnz-logo.png") no-repeat scroll 0% 0%;
+        background-size: 100%;
+        height: 2.5em;  
+        width: 5.8em;
+    }
+    
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
         -webkit-transition: all .3s;
@@ -146,7 +154,7 @@ header .intro-text .skills {
         font-size: 1.5em;
     }
 }
-
+    
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -180,7 +188,7 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #{{ site.color.primary-text }};
     background: #{{ site.color.primary }};
 }
 
@@ -335,7 +343,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 footer .footer-col {
@@ -344,7 +352,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {

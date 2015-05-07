@@ -23,17 +23,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: http://facebook.com/jscanzoni
-  - title: google-plus
-    url: https://plus.google.com/+JasonScanzoni
+    url: https://www.facebook.com/jscanzoni
+  - title: instagram
+    url: https://instagram.com/jscanzoni
   - title: twitter
-    url: http://twitter.com/jscanzoni
+    url: https://twitter.com/jscanzoni
   - title: linkedin
     url: https://www.linkedin.com/in/jscanzoni
-  - title: instagram
-    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/jscanzoni
 
 # Postal address (add as many lines as necessary)
 address:

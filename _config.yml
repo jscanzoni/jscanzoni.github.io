@@ -19,7 +19,7 @@ footer:
   copyright: Jason Scanzoni
   location: Location
   social: Around the Web
-  credits: SCNZ
+  credits: About
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -40,7 +40,7 @@ address:
   - line: Washington, DC 20001
 
 # Credits content
-credits: 'SCNZ is hosted on GitHub Pages and powered by Jekyll and Bootstrap.'
+credits: 'What does SCNZ stand for? It's short for Scanzoni&mdash;sounds cool, right?'
 
 # Build settings
 markdown: kramdown

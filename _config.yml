@@ -40,7 +40,7 @@ address:
   - line: Washington, DC 20001
 
 # Credits content
-credits: 'What does SCNZ stand for? It's short for Scanzoni&mdash;sounds cool, right?'
+credits: "What does SCNZ stand for? It's short for Scanzoni&mdash;sounds cool, right?"
 
 # Build settings
 markdown: kramdown

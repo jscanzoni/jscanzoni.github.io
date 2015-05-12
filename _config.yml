@@ -1,5 +1,5 @@
 # Site settings
-title: SCNZ - Jason Scanzoni
+title: scnz | Jason Scanzoni | Startup Engineer and Product Manager | Technical, Entrepreneurial, Creative, Analytical
 email: jason@scnz.co
 url: http://scnz.co
 description: "Jason Scanzoni is a product manager and startup engineer based out of Washington, DC."
@@ -40,7 +40,7 @@ address:
   - line: Washington, DC 20001
 
 # Credits content
-credits: "What does SCNZ stand for?<br>It's short for Scanzoni&mdash;sounds cool, right?"
+credits: 'Designed and illustrated by Jason. Freelancer theme by <a href="http://startbootstrap.com" target="_blank">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

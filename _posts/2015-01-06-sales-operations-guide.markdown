@@ -3,10 +3,7 @@ layout: default
 modal-id: 5
 date: 2015-01-06
 img: salesops.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+alt: Sales Operations Guide and Presentation
+description: The Sales Operations Guide was developed and presented for a January onboarding at OpenWater. The sales department was growing very quickly, but hadn't ever established or documented any formal procedures. The Sales Operations Guide was able to double both as an entertaining presentation and as formal documentation. <br /><br /><br /><a href="https://drive.google.com/file/d/0B9Z0lF0v7n4Vb2w5SXoxQ2FLNFE/view?usp=sharing" target="_blank"><img src="img/portfolio/salesops-presentation.png" class="img-responsive img-portfolio-extra" alt="Sales Operations Guide - Google Docs"></a>
 
 ---

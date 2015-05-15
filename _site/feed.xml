@@ -5,13 +5,13 @@
     <description>Jason Scanzoni is a product manager and startup engineer based out of Washington, DC.</description>
     <link>http://scnz.co/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 14 May 2015 21:16:32 -0400</pubDate>
-    <lastBuildDate>Thu, 14 May 2015 21:16:32 -0400</lastBuildDate>
+    <pubDate>Thu, 14 May 2015 21:19:10 -0400</pubDate>
+    <lastBuildDate>Thu, 14 May 2015 21:19:10 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Cherry Picker</title>
-        <description>Cherry Picker is a sales and marketing tool which prioritize and generate a predictable stream of leads. Developed as an internal tool to generate leads for OpenWater, but the tool had the capability to generate leads for other markets. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B9Z0lF0v7n4VcFNzUkhtOUNuME0/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;img/portfolio/cherry-fact-sheet.png&quot; class=&quot;img-responsive img-portfolio-extra&quot; alt=&quot;{{ post.alt }}&quot;&gt;&lt;/a&gt;</description>
+        <description>Cherry Picker is a sales and marketing tool which prioritize and generate a predictable stream of leads. Developed as an internal tool to generate leads for OpenWater, but the tool had the capability to generate leads for other markets. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B9Z0lF0v7n4VcFNzUkhtOUNuME0/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;img/portfolio/cherry-fact-sheet.png&quot; class=&quot;img-responsive img-portfolio-extra&quot; alt=&quot;Cherry Picker Fact Sheet - Google Docs&quot;&gt;&lt;/a&gt;</description>
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://scnz.co/2015/03/01/cherry-picker/</link>
         <guid isPermaLink="true">http://scnz.co/2015/03/01/cherry-picker/</guid>

@@ -3,10 +3,7 @@ layout: default
 modal-id: 2
 date: 2012-08-31
 img: nms.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+alt: National Mortgage Settlement Compliance Project
+description: Managed company-wide project to comply with the National Mortgage Settlement, resulting in Credit Suisse being one of only three servicers which were able to comply on time. Requiring major overhauls to the internal software and business processes, the project was the highest priority for everyone in the company.
 
 ---
